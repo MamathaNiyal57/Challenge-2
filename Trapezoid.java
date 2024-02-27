@@ -12,5 +12,10 @@ public class Trapezoid
     {
         int sum = num1 + num2;
         return sum;
+
+    public static int divison(int sum)
+    {
+        int value = sum/2;
+        return value;
     }
 }
